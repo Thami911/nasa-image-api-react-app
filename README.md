@@ -11,11 +11,11 @@ Displays a description and other relevant details about the picture.
 Responsive design for various screen sizes.
 
 *Install dependencies:
-npm install
+* npm install
 Usage
 To run the app locally, use the following command:
 
-npm run dev
+* npm run dev
 This will start the development server, and you can view the app by navigating to http://localhost:5174 in your browser.
 
 *Technologies Used
