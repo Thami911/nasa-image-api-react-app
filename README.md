@@ -12,13 +12,13 @@ Responsive design for various screen sizes.
 
 * Install dependencies:
 [npm install](npminstall)
-Usage
-To run the app locally, use the following command:
 
+To run the app locally, use the following command:
 [npm run dev](#npmrundev)
+
 This will start the development server, and you can view the app by navigating to http://localhost:5174 in your browser.
 
-*Technologies Used
+* Technologies Used
 React: A JavaScript library for building user interfaces.
 Vite: A fast build tool for modern web projects.
 NASA APOD API: The data source for the Astronomy Picture of the Day
